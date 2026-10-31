@@ -1,0 +1,17 @@
+# This repository holds release metadata only. Release assets are attached to a
+# GitHub Release; they are never committed here, and neither is anything that could
+# sign or unlock a build.
+*.apk
+*.aab
+*.apks
+*.apks.idsig
+*.keystore
+*.jks
+*.p12
+*.pfx
+key.properties
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
