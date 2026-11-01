@@ -2,12 +2,10 @@
 
 Official downloads for **INFUSION**, a personal-media player for Android TV.
 
-**This repository contains no source code.** INFUSION is free software under the **GNU
-General Public License, version 3 (GPL-3.0)**, and its source repository is private for now.
-What lives here is release metadata only: the release notes and the signed installer attached
-to each GitHub Release. There is nothing to build or fork here; how the corresponding source is
-made available to whoever receives a build is described in
-[Licence and source availability](#licence-and-source-availability).
+**This repository contains release metadata and signed installers, not the application source code.**
+INFUSION's development source repository is private. Publishing an installer here does not
+make the development repository public or grant permission to modify or redistribute INFUSION.
+See [Copyright and permissions](#copyright-and-permissions).
 
 ## Release status
 
@@ -95,25 +93,18 @@ MDBList, TheIntroDB or any add-on author.
 Published builds are **public alpha** builds: early, subject to change, and capable of
 breaking. Back up anything you would mind losing.
 
-## Licence and source availability
+## Copyright and permissions
 
-The INFUSION application is **free software** under the **GNU General Public License, version
-3 (GPL-3.0)**. The full text travels with every release as [`LICENSE`](LICENSE). Under it you
-may run the program for any purpose, study and change it, and redistribute copies — including
-modified builds — provided the GPL-3.0 conditions are met.
+Copyright © 2026 INFUSION. All rights reserved.
 
-**The source repository is private for now.** That is a hosting choice, not a licence
-restriction: GPL-3.0 does not require a public repository, but it does require that anyone who
-receives a distributed binary can obtain the **corresponding source for that build**. Before
-the first installer is published, the mechanism used to satisfy GPL-3.0 §6 for that build —
-for example publishing the corresponding source, or a written offer to supply it — is recorded
-in the release notes for that build. A published build whose notes do not identify its
-corresponding source is not a compliant INFUSION release.
+INFUSION is distributed as a proprietary application. The application source repository
+remains private. No permission to copy, modify, redistribute or create derivative works of
+INFUSION is granted by this repository, except as expressly authorized by the rights holder
+or applicable law. Installing and using an official APK does not grant rights to its source.
 
-The application licence does **not** automatically cover everything else: the website, the
-wordmark and artwork, the marketing text in this repository, and the INFUSION name are
-separate materials. No licence is granted for those beyond what is quoted here from
-third-party licences, and third-party components keep their own terms.
+The INFUSION name, wordmark, artwork and original release documentation are also reserved.
+Third-party components and their notices retain their respective licenses and rights;
+see [Third-party notices](#third-party-notices).
 
 ## Third-party notices
 
