@@ -1,18 +1,12 @@
 # Third-party notices
 
-INFUSION is distributed as a binary. This file reproduces, verbatim, the attribution and
-licence notices the application itself carries on its About screen, so the same notices
-travel with the download, the website's notices page and the public distribution
-repository.
+INFUSION is distributed as a binary. This file reproduces, in full, the attribution
+and licence notices the application itself carries on its About screen, so the same
+notices travel with the download, the website's notices page and the public
+distribution repository.
 
-It is generated from the application's own sources and must not be hand-edited:
-
-- `app-tv/src/main/kotlin/dev/infusion/tv/ui/screens/AboutLicenceNotices.kt` — the full licence texts.
-- `app-tv/src/main/kotlin/dev/infusion/tv/ui/screens/TvSettingsAboutSection.kt` — the credited components, the service attributions and
-  the standing independence notice.
-
-Regenerating and verifying the equality of the texts is R1's evidence requirement; the
-extraction script lives with the release evidence, not in this repository.
+The third-party terms stated here belong to the projects and services credited below.
+They are unaffected by the terms under which INFUSION itself is distributed.
 
 ---
 
@@ -62,7 +56,7 @@ a claim the project cannot make.
 
 Covers AndroidX, Jetpack Compose, AndroidX Media3, Kotlin, Kotlin Coroutines, OkHttp and
 ZXing. The text below is the `LICENSE.txt` shipped inside the bundled androidx artifacts,
-held verbatim in `AboutLicenceNotices.kt`.
+reproduced here in full.
 
 ```
                               Apache License
@@ -246,7 +240,7 @@ END OF TERMS AND CONDITIONS
 ### 3.2 The JSON License
 
 Covers `org.json`. The text below is The JSON License as published at
-<https://www.json.org/license.html>, held verbatim in `AboutLicenceNotices.kt`.
+<https://www.json.org/license.html>, reproduced here in full.
 
 ```
 The JSON License
