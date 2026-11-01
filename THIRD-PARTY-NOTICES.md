@@ -38,6 +38,7 @@ These obligations are **attribution terms**, not software licences.
 - **TMDB** — movie and TV metadata and artwork. This product uses TMDB and the TMDB APIs but is not endorsed, certified, or otherwise approved by TMDB.
 - **OMDb** — optional community ratings, used under CC BY-NC 4.0. OMDb is not affiliated with IMDb.
 - **Jellyfin** — browsing and playback from your own Jellyfin server. INFUSION is not affiliated with, or endorsed by, the Jellyfin project.
+- **Radarr and Sonarr** — optional connections you configure to view their connection status in INFUSION Settings. INFUSION is not affiliated with, or endorsed by, either project.
 - **Simkl, Trakt and MDBList** — optional watch-tracking accounts you connect yourself and can disconnect at any time. INFUSION is not affiliated with, or endorsed by, any of them.
 - **TheIntroDB and IntroDB.app** — intro and segment markers for the episodes you play.
 - **Add-ons** — the add-ons you install use the Stremio-compatible add-on protocol. Their catalogs, metadata and streams belong to their authors; INFUSION is not affiliated with Stremio or with any add-on provider.
