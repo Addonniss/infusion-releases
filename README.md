@@ -29,15 +29,18 @@
 
 You can also visit **[infusionplayer.stream/download](https://infusionplayer.stream/download/)** directly to get the installer.
 
-## Made for your TV
+## What is INFUSION today?
 
-- **A home that feels like yours.** Spotlight, Continue Watching and customizable rows.
-- **Discover more.** Explore movies and shows, search for titles and people, and shape your catalogs.
-- **Beautiful details.** Artwork, cast, reviews, recommendations and quick actions.
-- **Your Jellyfin libraries.** Browse movies, shows and **music**, with playback, queues and Now Playing for music.
-- **Your add-ons.** Choose and manage Stremio-compatible add-ons from your TV.
-- **Pick up where you left off.** Watch progress, watchlists, profiles and optional tracking integrations.
-- **Playback made for the screen.** Audio and subtitle controls, resume and next-episode continuation.
+- **Home is yours.** A Spotlight hero you can link to your chosen Home row or turn off, plus Continue Watching, Up Next and Recently Watched. Show, hide, reorder and rename your rows.
+- **Discover something new.** Explore trending, popular and top-rated movies and shows, or browse by genre. Choose which add-on catalogs appear and where.
+- **Search your way.** Find titles and people, with search history remembered separately for each profile.
+- **Rich details and context menus.** Explore artwork, reviews, directors, cast, similar titles and recommendations. Long-press cards for quick context actions.
+- **Jellyfin and music.** Browse your own movies, shows, episodes and **music** libraries, with your watch state, music playback, queues and Now Playing. Optional **Radarr and Sonarr** connections are available in Settings for connection status.
+- **Local-first watch state.** Keep your Watchlist and Recently Watched close at hand, with optional tracking through Trakt, Simkl and MDBList.
+- **Playback made for TV.** Resume, seek, select audio and subtitles, adjust skip intervals and continue to the next episode, with HDR and Dolby Vision-aware presentation.
+- **Add-ons in your control.** Install, enable, disable, restore, remove and rename Stremio-compatible add-ons, with context menus and control over their catalogs.
+- **Personal profiles.** Give each profile its own presentation preferences.
+- **Easier setup.** Enter credentials from your phone using a temporary local-network setup page instead of typing everything with a remote.
 
 ## Screenshots
 
