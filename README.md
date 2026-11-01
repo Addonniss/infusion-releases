@@ -23,7 +23,7 @@
 1. Install [Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader) on your Android TV.
 2. Enter the permanent INFUSION code:
 
-<p align="center"><strong><code>7197071</code></strong></p>
+<h2 align="center"><code>7197071</code></h2>
 
 3. Open the [INFUSION download page](https://infusionplayer.stream/download/) shown in Downloader, download the latest TV version and follow Android's installation prompts.
 
