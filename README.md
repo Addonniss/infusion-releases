@@ -57,6 +57,16 @@ You can also visit **[infusionplayer.stream/download](https://infusionplayer.str
 
 [View all 14 Android TV screenshots](assets/screenshots/tv/)
 
+## Open Source
+
+INFUSION's application source code is publicly available under the GNU General Public License v3.0 (GPLv3).
+
+You can inspect, modify, and redistribute the GPL-covered source code under the terms of the license.
+
+**[View Source Code](https://github.com/Addonniss/infusion-sources)** · **[GPLv3 License](https://github.com/Addonniss/infusion-sources/blob/main/LICENSE)**
+
+This repository hosts official signed Android TV installers and release information. The application source code is maintained in the separate `infusion-sources` repository.
+
 ## Public alpha
 
 INFUSION is currently in public alpha, and the experience is still evolving. For the latest build, changes and known issues, visit [GitHub Releases](https://github.com/Addonniss/infusion-releases/releases).
@@ -71,4 +81,4 @@ INFUSION is a media player, **not a content service**. It doesn't provide its ow
   <a href="THIRD-PARTY-NOTICES.md">Third-party notices</a>
 </p>
 
-<p align="center"><sub>© 2026 INFUSION. All rights reserved. Proprietary software. This repository hosts official installers, not application source code.</sub></p>
+<p align="center"><sub>© 2026 INFUSION. Application source licensed under GPLv3. Official signed Android TV releases.</sub></p>
