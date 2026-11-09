@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://infusionplayer.stream/">Website</a> ·
-  <a href="https://infusionplayer.stream/download/">Download</a> ·
+  <a href="https://fissionplayer.stream/">Website</a> ·
+  <a href="https://fissionplayer.stream/download/">Download</a> ·
   <a href="https://github.com/Addonniss/infusion-releases/releases">Releases</a>
 </p>
 
@@ -21,13 +21,13 @@
 **Using Downloader by AFTVnews**
 
 1. Install [Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader) on your Android TV.
-2. Enter the permanent INFUSION code:
+2. Enter the current fission Downloader code:
 
-<h2 align="center"><code>7197071</code></h2>
+<h2 align="center"><code>4188438</code></h2>
 
-3. Open the [INFUSION download page](https://infusionplayer.stream/download/) shown in Downloader, download the latest TV version and follow Android's installation prompts.
+3. Open the [fission download page](https://fissionplayer.stream/download/) shown in Downloader, download the latest TV version and follow Android's installation prompts.
 
-You can also visit **[infusionplayer.stream/download](https://infusionplayer.stream/download/)** directly to get the installer.
+You can also visit **[fissionplayer.stream/download](https://fissionplayer.stream/download/)** directly to get the installer.
 
 ## What is INFUSION today?
 
@@ -74,8 +74,8 @@ INFUSION is currently in public alpha, and the experience is still evolving. For
 INFUSION is a media player, **not a content service**. It doesn't provide its own movies, shows, streams or bundled catalogs. You connect your own Jellyfin server and/or choose your own add-ons.
 
 <p align="center">
-  <a href="https://infusionplayer.stream/support/">Support</a> ·
-  <a href="https://infusionplayer.stream/privacy/">Privacy</a> ·
+  <a href="https://fissionplayer.stream/support/">Support</a> ·
+  <a href="https://fissionplayer.stream/privacy/">Privacy</a> ·
   <a href="SECURITY.md">Security</a> ·
   <a href="COPYRIGHT.md">Copyright</a> ·
   <a href="THIRD-PARTY-NOTICES.md">Third-party notices</a>
